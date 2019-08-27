@@ -17,12 +17,16 @@ build:
 
 > npm install
 
-run:
+run (web):
 
-> npm serve
+> npm start  
 
 open:
 
 > http://localhost:4200/
+
+run (desktop)
+
+> npm run start-electron 
 
 _by GEDOPLAN, [Dominik Mathmann](https://github.com/dominikmathmann)_
