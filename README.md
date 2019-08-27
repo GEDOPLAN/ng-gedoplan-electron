@@ -1,27 +1,28 @@
-# NgGedoplanElectron
+# Angular +  Electron
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+Desktop Anwendungen mit Angular und Electron
+Demo-Projekt zum Blog Beitrag auf:
 
-## Development server
+[https://javaeeblog.wordpress.com/](https://javaeeblog.wordpress.com/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Demo](/src/assets/page.png)
 
-## Code scaffolding
+> Webanwendungen sind dieser Tage nicht mehr wegzudenken aus dem Geschäftsleben. So manche Anwendung die früher ihr Dasein als Swing- oder JavaFX-Applikation gefristet hat, wurden mittels Webtechnologien neu eingekleidet. Trotzdem sind native oder hybride Ansätze immer dann interessant wenn die Anwendung mehr möchte als die Sandbox des Browser es zu lässt. Ein Ansatz der sich großer beliebtheit erfreut: wir schreiben eine Web-Anwendung und "packen sie ein". Was Ionic für mobile-Apps ist, stellt electron für die Desktop-Welt da. Zeit für einen kurzen Überblick.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Run
 
-## Build
+Die Anwendung verwendet **npm** und **angular-cli**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+build:
 
-## Running unit tests
+> npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+run:
 
-## Running end-to-end tests
+> npm serve
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+open:
 
-## Further help
+> http://localhost:4200/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+_by GEDOPLAN, [Dominik Mathmann](https://github.com/dominikmathmann)_

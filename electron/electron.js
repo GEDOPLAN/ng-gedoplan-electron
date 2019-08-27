@@ -21,8 +21,8 @@ function createWindow() {
     })
   );
   // Open the DevTools.
-  mainWindow.webContents.openDevTools();
-  // mainWindow.setMenu(null);
+  // mainWindow.webContents.openDevTools();
+  mainWindow.setMenu(null);
 
   mainWindow.on("closed", function() {
     mainWindow = null;
