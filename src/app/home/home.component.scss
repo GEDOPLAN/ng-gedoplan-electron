@@ -1,0 +1,13 @@
+article {
+  font-size: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img:nth-of-type(1) {
+    width: 10em;
+  }
+  img:nth-of-type(2) {
+    width: 4em;
+  }
+}

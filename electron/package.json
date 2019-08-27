@@ -1,0 +1,9 @@
+{
+  "name": "ng-gedoplan-electron",
+  "version": "1.0.0",
+  "main": "electron.js",
+  "description": "Start-File für Electron-Anwendung",
+  "author": {
+    "name": "Dominik Mathmann, GEDOPLAN"
+  }
+}
